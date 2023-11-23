@@ -7,11 +7,11 @@ I'm a passionate IT enthusiast and aspiring cybersecurity professional, currentl
 
 - <b>Python</b>
   - [Delivery Management System](https://github.com/TheRogueDadBot/DeliveryManagementSys)
-- <b>Machine Learning</b>
-  - [Song Popularity Predictor](https://github.com/TheRogueDadBot/song_popularity_prediction)
 - <b>Java</b>
   - [Inventory Management System](https://github.com/TheRogueDadBot/SmartStockManager)
-  - [Appointment Management System](https://github.com/TheRogueDadBot/GlobalConsultScheduler)
+  - [Appointment Management System](https://github.com/TheRogueDadBot/GlobalConsultScheduler) 
+- <b>Machine Learning</b>
+  - [Song Popularity Predictor](https://github.com/TheRogueDadBot/song_popularity_prediction)
  
 <h2>🏅 Certifications</h2>
 
