@@ -10,8 +10,8 @@ I'm a passionate IT enthusiast and aspiring cybersecurity professional, currentl
 - <b>Machine Learning</b>
   - [Song Popularity Predictor](https://github.com/TheRogueDadBot/song_popularity_prediction)
 - <b>Java</b>
-  - [Smart Stock Manager](https://github.com/TheRogueDadBot/SmartStockManager)
-  - [Global Consultant Scheduler](https://github.com/TheRogueDadBot/GlobalConsultScheduler)
+  - [Inventory Management System](https://github.com/TheRogueDadBot/SmartStockManager)
+  - [Appointment Management System](https://github.com/TheRogueDadBot/GlobalConsultScheduler)
  
 <h2>🏅 Certifications</h2>
 
