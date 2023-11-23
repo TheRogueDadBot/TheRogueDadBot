@@ -9,6 +9,14 @@
 - <b>Java</b>
   - [Smart Stock Manager](https://github.com/TheRogueDadBot/SmartStockManager)
   - [Global Consultant Scheduler](https://github.com/TheRogueDadBot/GlobalConsultScheduler)
+ 
+<h2>🏅 Certifications</h2>
+
+- [Google IT Support Professional](https://coursera.org/share/43ca8dc6112eaaddb755950a07d14f5e)
+- ITIL Foundation
+- Comptia Securety+ (Expected 01/2024)
+- Google Cybersecurity Professional (Expected 01/2024)
+
 
 <h2> 🤳 Connect with me:</h2>
 
