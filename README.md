@@ -17,6 +17,15 @@
 - Comptia Securety+ (Expected 01/2024)
 - Google Cybersecurity Professional (Expected 01/2024)
 
+<h2>💻Skills & Technologies</h2>
+
+- Network Engineering & Troubleshooting
+- Cybersecurity Practices
+- Broadcast System Integration
+- Risk Management & Safety Compliance
+- Java, Python, JavaFX, SQL
+- Machine Learning & Data Analytics
+
 
 <h2> 🤳 Connect with me:</h2>
 
