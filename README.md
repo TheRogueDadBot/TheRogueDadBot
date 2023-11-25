@@ -1,7 +1,10 @@
 <h1>Hi, I'm Eric! <br/><a href="https://github.com/TheRogueDadBot">Programmer</a>, <a href="https://www.linkedin.com/in/ericjohnjacobs/">Cybersecurity Professional</a></h1>
 
 <h2>About Me</h2>
-I'm a passionate IT enthusiast and aspiring cybersecurity professional, currently enriching my skills through continuous learning and certification pursuits. With a Bachelor’s degree in Computer Science, my background spans network engineering, technical support, and software development. I'm excited to apply my diverse experience in dynamic IT roles and explore the intersections of technology and problem-solving.
+
+- I am a passionate IT enthusiast and aspiring cybersecurity professional, committed to integrity, vigilance, and continuous improvement in the evolving landscape of information security. With a Bachelor’s degree in Computer Science, my experience encompasses network engineering, technical support, and software development, underpinned by a strong ethical framework essential in cybersecurity. I am actively enriching my expertise through ongoing education and certification pursuits, including areas like threat intelligence, risk assessment, and data protection. 
+
+- My goal is to leverage this diverse experience in dynamic IT roles, particularly in cybersecurity, where I can apply my skills in analyzing complex security challenges, developing robust defense strategies, and fostering a culture of security awareness. Eager to explore the intersections of technology and problem-solving, I am driven by a deep sense of responsibility to protect digital assets and information, and am excited to contribute to a team that values proactive defense, innovative problem-solving, and collaborative resilience against cyber threats.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
